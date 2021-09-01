@@ -1,0 +1,48 @@
+img {
+    opacity: 0.9;
+}
+
+.jumbotron {
+    background: url("../images/cancercells.jpg");
+    background-size: cover;
+    justify-content: center;
+    padding-top: 2em;
+    padding-bottom: 5em;
+    opacity: 1.0;
+  }
+
+.jumbotron h3 {
+    color: white;
+    -webkit-text-stroke: 3px black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.jumbotron h5 {
+    color: white;
+    -webkit-text-stroke: 1.2px black;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.transbox {
+    background-color: rgba(144, 149, 150, 0.2);
+    border: 1px solid black;
+}
+
+.container {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.row {
+    padding-bottom: 3em;
+}
+
+#selDataset {
+    position: center;
+}
+
+button {
+    text-align: center;
+}
